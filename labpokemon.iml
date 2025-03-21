@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/LAB 1 MA/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/LAB 1 MA/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/LAB 1 MA/build" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_calculation/flutter_calculation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_calculation/flutter_calculation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_calculation/flutter_calculation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lab4/pokemon_card_viewer/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lab4/pokemon_card_viewer/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lab4/pokemon_card_viewer/build" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
